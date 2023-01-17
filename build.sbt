@@ -7,7 +7,7 @@ lazy val root = (project in file("."))
     name := "RelayServer"
   )
 
-val fs2Version        = "3.2.2"
+val fs2Version        = "3.2.14"
 val catsEffectVersion = "3.3.0"
 val tapirVersion      = "0.19.1"
 val http4SVersion     = "0.23.7"
