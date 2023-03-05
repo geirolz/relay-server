@@ -11,7 +11,7 @@ val fs2Version        = "3.2.2"
 val catsEffectVersion = "3.3.0"
 val tapirVersion      = "0.19.1"
 val http4SVersion     = "0.23.7"
-val circeVersion      = "0.14.1"
+val circeVersion      = "0.14.5"
 
 libraryDependencies ++= Seq(
   "org.typelevel" %% "cats-effect" % catsEffectVersion withSources () withJavadoc (),
