@@ -26,7 +26,7 @@ libraryDependencies ++= Seq(
   "io.circe" %% "circe-core" % circeVersion,
   "io.circe" %% "circe-generic" % circeVersion,
   "io.circe" %% "circe-parser" % circeVersion,
-  "com.github.pureconfig" %% "pureconfig" % "0.17.1"
+  "com.github.pureconfig" %% "pureconfig" % "0.17.3"
 )
 
 scalacOptions ++= Seq(
