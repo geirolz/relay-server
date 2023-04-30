@@ -19,7 +19,7 @@ libraryDependencies ++= Seq(
   "co.fs2" %% "fs2-io" % fs2Version,
   "ch.qos.logback" % "logback-classic" % "1.2.7",
   "net.logstash.logback" % "logstash-logback-encoder" % "7.0.1",
-  "org.typelevel" %% "log4cats-slf4j" % "2.1.1",
+  "org.typelevel" %% "log4cats-slf4j" % "2.6.0",
   "com.softwaremill.sttp.tapir" %% "tapir-core" % tapirVersion,
   "com.softwaremill.sttp.tapir" %% "tapir-cats" % tapirVersion,
   "com.softwaremill.sttp.tapir" %% "tapir-http4s-server" % tapirVersion,
